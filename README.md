@@ -21,4 +21,4 @@ A streamlined pipeline for generating synthetic historical patient datasets in O
 - [DATA_GEN_PROCESS.md](./DATA_GEN_PROCESS.md): Logic flow and mathematical formulas.
 - [TECHNICAL_RATIONALE.md](./TECHNICAL_RATIONALE.md): Scientific justification for Gamma, Poisson, and Backcasting.
 - [PIPELINE_HANDOVER.md](./PIPELINE_HANDOVER.md): Operational guide for developers.
-- [WHAT_IT_DID.md](./WHAT_IT_DID.md): Transformation summary from legacy to lean.
+
